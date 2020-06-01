@@ -1,6 +1,6 @@
 This program is being made for the project work named as TELEGRAM BOT USING PYTHON,
 performed in the CYBER LAB of Central University of Punjab, Bathinda by UMAR FAROOQ,
-under the supervison of Er. SURINDER SINGH KHURANA Sir.\n",
+under the supervison of Er. SURINDER SINGH KHURANA,
    
     "Basic example for a bot that uses inline and outline keyboards (buttons),
     "along with the use of commands",
